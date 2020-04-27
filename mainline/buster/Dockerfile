@@ -1,4 +1,4 @@
-FROM IMAGE=debian
+FROM debian
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
