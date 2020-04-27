@@ -1,4 +1,4 @@
-FROM IMAGE=debian:buster-slim
+FROM IMAGE=debian
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
